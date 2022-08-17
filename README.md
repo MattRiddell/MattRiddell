@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matt Riddell</h1>
 <h3 align="center">Software developer from New Zealand</h3>
 
-Unfortunately most of my ~180 repositories are private so you wont see much here.
+Unfortunately most of my ~215 repositories are private so you wont see much here.
 
 Hit me up if you're curious though.
 
