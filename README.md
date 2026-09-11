@@ -16,30 +16,16 @@ Most of my ~200 repositories are private, so there is not much to see here. Hit 
 - **Also active across my other companies:** NeoGen.AI, COVID Schedule, VentureVoIP, CreateOffshoreCompany, SineApps, VentureIP, C O International Holdings, Bio Earth Farms, Light Stream Farms and Singularity Software.
 
 <p align="center">
-  <img src="assets/aero-dashboard-v2.png" alt="Fleet dashboard (Aero): session control, delivery pipeline, live agent sessions" width="900" />
-  <br/><sub>The fleet dashboard I built for the Agentic OS — session control, the delivery pipeline and the live agent sessions on one screen. Ticket, PR and account details blurred.</sub>
+  <a href="assets/aero-dashboard-v2.png"><img src="assets/aero-dashboard-v2.png" alt="Aero: session control, delivery pipeline, live agent sessions" width="30%" /></a>
+  <a href="assets/aero-dashboard-3-v2.png"><img src="assets/aero-dashboard-3-v2.png" alt="Fleet load, per-account rate limits, machine vitals, open questions" width="30%" /></a>
+  <a href="assets/aero-dashboard-2-v2.png"><img src="assets/aero-dashboard-2-v2.png" alt="Blockers by person, backlog, completions over 7 days, workers vs RAM" width="30%" /></a>
 </p>
-
 <p align="center">
-  <img src="assets/aero-dashboard-3-v2.png" alt="Fleet load, per-account rate limits, machine vitals and open questions" width="900" />
-  <br/><sub>Further down: fleet load, per-account rate limits, machine vitals and the open questions waiting on a human. Names and question text blurred.</sub>
+  <a href="assets/usage-v2.png"><img src="assets/usage-v2.png" alt="Usage page for the small HDMI screen: per-account windows across Anthropic, OpenAI, Z.AI and xAI" width="30%" /></a>
+  <a href="assets/theme-nebula-v2.png"><img src="assets/theme-nebula-v2.png" alt="Nebula theme" width="30%" /></a>
+  <a href="assets/theme-tron-v2.png"><img src="assets/theme-tron-v2.png" alt="Tron theme" width="30%" /></a>
 </p>
-
-<p align="center">
-  <img src="assets/aero-dashboard-2-v2.png" alt="Blockers by person, tech backlog, completions over 7 days, active workers vs RAM" width="900" />
-  <br/><sub>Blockers by person, backlog counts, tickets completed over the last seven days (1,079 that week) and active workers against RAM.</sub>
-</p>
-
-<p align="center">
-  <img src="assets/usage-v2.png" alt="Usage page: 5-hour, 7-day and Fable windows per account, plus Codex, Z.AI and Grok" width="900" />
-  <br/><sub>The usage page, built for a separate small HDMI screen next to the main monitor: 5-hour, 7-day and model windows per account across Anthropic, OpenAI, Z.AI and xAI. Names blurred.</sub>
-</p>
-
-<p align="center">
-  <img src="assets/theme-nebula-v2.png" alt="Nebula theme" width="440" />
-  <img src="assets/theme-tron-v2.png" alt="Tron theme" width="440" />
-  <br/><sub>The same overview in two of the dashboard themes, Nebula and Tron. Details blurred.</sub>
-</p>
+<p align="center"><sub>The fleet dashboard I built for the Agentic OS — click a thumbnail for the full screenshot. Top row: session control and the delivery pipeline · fleet load, account rate limits, machine vitals and open questions · blockers by person, backlog, completions and workers vs RAM. Bottom row: the usage page that lives on a separate small HDMI screen · the same overview in the Nebula and Tron themes. Ticket, PR, question and account details blurred.</sub></p>
 
 ## Our own CI/CD, built from scratch
 
