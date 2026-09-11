@@ -20,6 +20,17 @@ Most of my ~200 repositories are private, so there is not much to see here. Hit 
   <br/><sub>The fleet dashboard I built for the Agentic OS — live sessions, the delivery pipeline and capacity, on one screen. Ticket, PR and account details blurred.</sub>
 </p>
 
+<p align="center">
+  <img src="assets/aero-dashboard-2.png" alt="Live agent sessions: model, context and CPU per lane" width="440" />
+  <img src="assets/aero-dashboard-3.png" alt="Fleet load over the last 30 minutes and per-account rate limits" width="440" />
+  <br/><sub>Further down: every live agent session with its model, context and CPU · fleet load and per-account rate limits.</sub>
+</p>
+
+<p align="center">
+  <img src="assets/usage.png" alt="Usage page: 5-hour, 7-day and Fable windows per account, plus Codex and Z.AI" width="900" />
+  <br/><sub>The usage page: 5-hour, 7-day and model windows per account across Anthropic, OpenAI and Z.AI, so the fleet switches accounts before it hits a cap. Names blurred.</sub>
+</p>
+
 ## Our own CI/CD, built from scratch
 
 We stopped paying for hosted CI runners (GitHub-hosted minutes first, then Blacksmith) and replaced the whole path with our own:
