@@ -31,6 +31,11 @@ Most of my ~200 repositories are private, so there is not much to see here. Hit 
   <br/><sub>The usage page: 5-hour, 7-day and model windows per account across Anthropic, OpenAI and Z.AI, so the fleet switches accounts before it hits a cap. Names blurred.</sub>
 </p>
 
+<p align="center">
+  <img src="assets/overview.png" alt="Overview: machine vitals, open questions, blockers by person, tech backlog, completions and workers vs RAM" width="900" />
+  <br/><sub>The overview: machine vitals, open questions for humans, blockers by person, backlog counts, completions over the last 7 days and active workers against RAM. Names and question text blurred.</sub>
+</p>
+
 ## Our own CI/CD, built from scratch
 
 We stopped paying for hosted CI runners (GitHub-hosted minutes first, then Blacksmith) and replaced the whole path with our own:
