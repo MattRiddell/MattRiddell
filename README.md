@@ -13,7 +13,7 @@ Most of my ~200 repositories are private, so there is not much to see here. Hit 
 
 - **CTO at [Group Advisors](https://www.groupadvisors.com)** — a US employee-benefits platform (wellness programs, affiliate and employer portals, payroll integrations, billing, e-signature, an employee mobile app).
 - **An Agentic OS** — my own operating system for software delivery run by AI agents. A controller seat plans and promotes, a warden answers and routes, worker lanes claim tickets from an in-house board, and a deterministic pipeline merges, builds staging, verifies and promotes to production. Dozens of agents work in parallel on one Linux box, around the clock, with humans only answering real decisions.
-- Earlier and ongoing ventures: NeoGen.AI, VentureVoIP, SineApps.
+- **Also active across my other companies:** NeoGen.AI, COVID Schedule, VentureVoIP, CreateOffshoreCompany, SineApps, VentureIP, C O International Holdings, Bio Earth Farms, Light Stream Farms and Singularity Software.
 
 ## How I work with AI
 
