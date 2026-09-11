@@ -46,6 +46,7 @@ We stopped paying for hosted CI runners (GitHub-hosted minutes first, then Black
 
 I don't use AI as an autocomplete; I run it as a workforce.
 
+- **Background:** I have built and fine-tuned my own models from scratch, and I have extensive experience deploying ensemble models in production — the approach that has since been popularised as mixture of experts.
 - **Models:** Anthropic Claude (Fable / Opus 5 for control and judgment), Zhipu GLM 5.3 for volume work, OpenAI Codex models, xAI Grok, plus local models via Ollama.
 - **Tools:** Claude Code, T3 Code, opencode and Codex CLI as agent runtimes; systemd timers for the deterministic parts; Telegram for the human loop; Playwright for browser verification; self-hosted GitHub Actions runners; Heroku for delivery.
 - **Principles:** everything in production is verified by evidence, not by a green check; agents claim work with locks and audit trails; every decision is recorded with who said it and when; and anything that is done twice by hand becomes a script or a timer.
