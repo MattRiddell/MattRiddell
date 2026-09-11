@@ -16,28 +16,28 @@ Most of my ~200 repositories are private, so there is not much to see here. Hit 
 - **Also active across my other companies:** NeoGen.AI, COVID Schedule, VentureVoIP, CreateOffshoreCompany, SineApps, VentureIP, C O International Holdings, Bio Earth Farms, Light Stream Farms and Singularity Software.
 
 <p align="center">
-  <img src="assets/aero-dashboard.png" alt="Fleet dashboard (Aero): session control, delivery pipeline, live agent sessions" width="900" />
+  <img src="assets/aero-dashboard-v2.png" alt="Fleet dashboard (Aero): session control, delivery pipeline, live agent sessions" width="900" />
   <br/><sub>The fleet dashboard I built for the Agentic OS — session control, the delivery pipeline and the live agent sessions on one screen. Ticket, PR and account details blurred.</sub>
 </p>
 
 <p align="center">
-  <img src="assets/aero-dashboard-3.png" alt="Fleet load, per-account rate limits, machine vitals and open questions" width="900" />
+  <img src="assets/aero-dashboard-3-v2.png" alt="Fleet load, per-account rate limits, machine vitals and open questions" width="900" />
   <br/><sub>Further down: fleet load, per-account rate limits, machine vitals and the open questions waiting on a human. Names and question text blurred.</sub>
 </p>
 
 <p align="center">
-  <img src="assets/aero-dashboard-2.png" alt="Blockers by person, tech backlog, completions over 7 days, active workers vs RAM" width="900" />
+  <img src="assets/aero-dashboard-2-v2.png" alt="Blockers by person, tech backlog, completions over 7 days, active workers vs RAM" width="900" />
   <br/><sub>Blockers by person, backlog counts, tickets completed over the last seven days (1,079 that week) and active workers against RAM.</sub>
 </p>
 
 <p align="center">
-  <img src="assets/usage.png" alt="Usage page: 5-hour, 7-day and Fable windows per account, plus Codex, Z.AI and Grok" width="900" />
+  <img src="assets/usage-v2.png" alt="Usage page: 5-hour, 7-day and Fable windows per account, plus Codex, Z.AI and Grok" width="900" />
   <br/><sub>The usage page, built for a separate small HDMI screen next to the main monitor: 5-hour, 7-day and model windows per account across Anthropic, OpenAI, Z.AI and xAI, so the fleet switches accounts before it hits a cap. Names blurred.</sub>
 </p>
 
 <p align="center">
-  <img src="assets/theme-nebula.png" alt="Nebula theme" width="440" />
-  <img src="assets/theme-tron.png" alt="Tron theme" width="440" />
+  <img src="assets/theme-nebula-v2.png" alt="Nebula theme" width="440" />
+  <img src="assets/theme-tron-v2.png" alt="Tron theme" width="440" />
   <br/><sub>The same overview in two of the dashboard themes, Nebula and Tron. Details blurred.</sub>
 </p>
 
