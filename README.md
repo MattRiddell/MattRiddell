@@ -32,7 +32,7 @@ Most of my ~200 repositories are private, so there is not much to see here. Hit 
 
 <p align="center">
   <img src="assets/usage.png" alt="Usage page: 5-hour, 7-day and Fable windows per account, plus Codex, Z.AI and Grok" width="900" />
-  <br/><sub>The usage page: 5-hour, 7-day and model windows per account across Anthropic, OpenAI, Z.AI and xAI, so the fleet switches accounts before it hits a cap. Names blurred.</sub>
+  <br/><sub>The usage page, built for a separate small HDMI screen next to the main monitor: 5-hour, 7-day and model windows per account across Anthropic, OpenAI, Z.AI and xAI, so the fleet switches accounts before it hits a cap. Names blurred.</sub>
 </p>
 
 <p align="center">
