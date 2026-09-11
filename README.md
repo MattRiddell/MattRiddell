@@ -26,7 +26,3 @@ I don't use AI as an autocomplete; I run it as a workforce.
 ## Stack
 
 TypeScript · React · Vite · Tailwind · LoopBack 4 / Node.js · MySQL · Heroku · Expo / React Native · Firebase · Playwright · Jest · GitHub Actions · Linux / systemd · Python
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mattriddell&hide_border=true" alt="GitHub streak" />
-</p>
