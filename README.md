@@ -16,24 +16,29 @@ Most of my ~200 repositories are private, so there is not much to see here. Hit 
 - **Also active across my other companies:** NeoGen.AI, COVID Schedule, VentureVoIP, CreateOffshoreCompany, SineApps, VentureIP, C O International Holdings, Bio Earth Farms, Light Stream Farms and Singularity Software.
 
 <p align="center">
-  <img src="assets/aero-dashboard.png" alt="Fleet dashboard (Aero skin): session control, delivery pipeline, live agent sessions — identifying details blurred" width="900" />
-  <br/><sub>The fleet dashboard I built for the Agentic OS — live sessions, the delivery pipeline and capacity, on one screen. Ticket, PR and account details blurred.</sub>
+  <img src="assets/aero-dashboard.png" alt="Fleet dashboard (Aero): session control, delivery pipeline, live agent sessions" width="900" />
+  <br/><sub>The fleet dashboard I built for the Agentic OS — session control, the delivery pipeline and the live agent sessions on one screen. Ticket, PR and account details blurred.</sub>
 </p>
 
 <p align="center">
-  <img src="assets/aero-dashboard-2.png" alt="Live agent sessions: model, context and CPU per lane" width="440" />
-  <img src="assets/aero-dashboard-3.png" alt="Fleet load over the last 30 minutes and per-account rate limits" width="440" />
-  <br/><sub>Further down: every live agent session with its model, context and CPU · fleet load and per-account rate limits.</sub>
+  <img src="assets/aero-dashboard-3.png" alt="Fleet load, per-account rate limits, machine vitals and open questions" width="900" />
+  <br/><sub>Further down: fleet load, per-account rate limits, machine vitals and the open questions waiting on a human. Names and question text blurred.</sub>
 </p>
 
 <p align="center">
-  <img src="assets/usage.png" alt="Usage page: 5-hour, 7-day and Fable windows per account, plus Codex and Z.AI" width="900" />
-  <br/><sub>The usage page: 5-hour, 7-day and model windows per account across Anthropic, OpenAI and Z.AI, so the fleet switches accounts before it hits a cap. Names blurred.</sub>
+  <img src="assets/aero-dashboard-2.png" alt="Blockers by person, tech backlog, completions over 7 days, active workers vs RAM" width="900" />
+  <br/><sub>Blockers by person, backlog counts, tickets completed over the last seven days (1,079 that week) and active workers against RAM.</sub>
 </p>
 
 <p align="center">
-  <img src="assets/overview.png" alt="Overview: machine vitals, open questions, blockers by person, tech backlog, completions and workers vs RAM" width="900" />
-  <br/><sub>The overview: machine vitals, open questions for humans, blockers by person, backlog counts, completions over the last 7 days and active workers against RAM. Names and question text blurred.</sub>
+  <img src="assets/usage.png" alt="Usage page: 5-hour, 7-day and Fable windows per account, plus Codex, Z.AI and Grok" width="900" />
+  <br/><sub>The usage page: 5-hour, 7-day and model windows per account across Anthropic, OpenAI, Z.AI and xAI, so the fleet switches accounts before it hits a cap. Names blurred.</sub>
+</p>
+
+<p align="center">
+  <img src="assets/theme-nebula.png" alt="Nebula theme" width="440" />
+  <img src="assets/theme-tron.png" alt="Tron theme" width="440" />
+  <br/><sub>The same overview in two of the dashboard themes, Nebula and Tron. Details blurred.</sub>
 </p>
 
 ## Our own CI/CD, built from scratch
