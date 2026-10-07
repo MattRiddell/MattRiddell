@@ -21,7 +21,7 @@ Most of my ~200 repositories are private, so there is not much to see here. Hit 
   <a href="assets/aero-dashboard-2-v2.png"><img src="assets/aero-dashboard-2-v2.png" alt="Blockers by person, backlog, completions over 7 days, workers vs RAM" width="30%" /></a>
 </p>
 <p align="center">
-  <a href="assets/usage-v2.png"><img src="assets/usage-v2.png" alt="Usage page for the small HDMI screen: per-account windows across Anthropic, OpenAI, Z.AI and xAI" width="30%" /></a>
+  <a href="assets/usage-v2.png"><img src="assets/usage-v2.png" alt="Usage page for the small HDMI screen: per-account windows across Anthropic, OpenAI, Z.AI, xAI, DeepSeek and Browserbase" width="30%" /></a>
   <a href="assets/theme-nebula-v2.png"><img src="assets/theme-nebula-v2.png" alt="Nebula theme" width="30%" /></a>
   <a href="assets/theme-tron-v2.png"><img src="assets/theme-tron-v2.png" alt="Tron theme" width="30%" /></a>
 </p>
